@@ -1,0 +1,3 @@
+// RESPOSTA DA QUESTÃO 01 DA LISTA 1
+
+A aplicação do uso de ponteiros na criação de programas que podem ser utilizados na engenharia são diversos, pois, a aplicação deste conhecimento permite uma manipulção real dos dados que o programa contém, sem alterar o seu código nem suas variáveis globais. Em um exemplo prático do poder deste conhecimento são programas como o WeMod, que possibilitam alterar conteúdo da memória de um programa que está em execução e por este motivo é muito usado em jogos para computador, para implementar vida ou munição infinita, outra possível aplicação é a capacidade de estudar e recolher informações dos programas, amplamente usado por hacker em softwares como os Keygens.
