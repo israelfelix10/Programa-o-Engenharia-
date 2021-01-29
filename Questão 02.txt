@@ -1,0 +1,18 @@
+// REPOSTA DA QUESTÃO 02 DA LISTA 01
+
+TRECHO DO PROGRAMA:
+int i=3,j=5;
+int *p, *q;
+p = &i;
+q = &j;
+________________________________________
+
+RESPOSTAS:
+
+◦ p == &i; ---> Irá retornar true, pois o valor da posição de memória da variável "i" foi definido como o valor a ser guardado no ponteiro.
+
+◦ *p - *q; -----> Retornará o valor de "-2", pois com a opção de desreferenciação do ponteiro estou na verdade, subtraindo o valor das variáveis.
+
+◦ **&p;----> Teremos a desreferenciação do ponteiro e o valor do resultado será "3".
+
+◦ 3 - *p/(*q) + 7; ---> O valor da expressão matemática será 9,4.
