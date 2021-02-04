@@ -1,0 +1,14 @@
+QUESTÃO 3 - LINGUAGEM DE PROGRAMAÇÃO
+
+printf("%x %d %d %d %d", p,*p+2,**&p,3**p,**&p+4);
+
+%x, p -> Irá apresentar na tela do computador o número 4094 de forma hexadecimal sem sinal;
+
+*p+2 -> Número decimal 7;
+
+**&p -> Número 5; desreferenciação da desreferenciação do ponteiro;
+
+3**p -> Número decimal 15; 3 vezes a desreferenciação de i= 5
+
+**&p+4 -> Número 9; desreferenciação da desreferenciação do ponteiro mais 4.
+
