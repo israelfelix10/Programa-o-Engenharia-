@@ -1,0 +1,4 @@
+RESPOSTA QUESTÃO 07 - LISTA 01
+
+Asumindo o vetor pulo, e que poderemos pular unidades de memória para acessar o pulo[3], podemos dizer que as expressões que mais se encaixam nessa conjectura são:
+ *(pulo + 4)   e  pulo + 4;

@@ -1,0 +1,12 @@
+RESPOSTA QUESTÃO 06 - LISTA 01
+
+A SAIDA PARA CÓDIGO É:
+
+ontador   /valor   /valor   /endereco   /endereco
+i = 0vet[0] = 1.1*(f + 0) = 1.1&vet[0] = 78FCC720(f + 0) = 78FCC720
+i = 1vet[1] = 2.2*(f + 1) = 2.2&vet[1] = 78FCC724(f + 1) = 78FCC724
+i = 2vet[2] = 3.3*(f + 2) = 3.3&vet[2] = 78FCC728(f + 2) = 78FCC728
+i = 3vet[3] = 4.4*(f + 3) = 4.4&vet[3] = 78FCC72C(f + 3) = 78FCC72C
+i = 4vet[4] = 5.5*(f + 4) = 5.5&vet[4] = 78FCC730(f + 4) = 78FCC730
+
+Aparentemente, as operações de andar o endereço de memória implementadas não foram satisfeitas, pois os endereços apresentados são os mesmos tanto do lado esquerdo quanto direito, as multiplicações também parecem dá errado por ler "f" não como um ponteiro mas como uma string normal. 

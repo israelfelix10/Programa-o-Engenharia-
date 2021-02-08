@@ -1,0 +1,11 @@
+RESPOSTA QUESTÃO 04 - LISTA 01
+
+Podemos considerar atribuições invalidas as seguintes alternativas:
+
+d. i = (*&)j;
+
+f. i = &&j;
+
+h. i = (*p)` + *q;
+
+

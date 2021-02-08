@@ -1,0 +1,19 @@
+O que será mostrado pelo programa será:
+
+20 
+29.0 
+P 
+e 
+P 
+e 
+t 
+31 
+45 
+27 
+31 
+45 
+45 
+
+Isto quer dizer que o programa executa como esperado na programação.
+
+Obs.: Considera-se que este o comando "p5`;" foi um erro de digitação.
