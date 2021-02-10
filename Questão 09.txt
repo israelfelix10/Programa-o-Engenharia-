@@ -1,0 +1,32 @@
+RESPOSTA QUESTÃO 09 - LISTA 01 
+
+int main(){
+
+int vet[] = {4,9,13}; // Cria-se um vetor de dimensão 3, com seus parâmetros já definidos.
+
+int i; // Criamos a variável inteira i.
+
+for(i=0;i<3;i++){
+
+printf("%d ",*(vet+i));   // Laço criado para impressão dos dados do vetor por meio da lógica de alocação de memórias e da aplicação usual ponteiros para criação de vetores.
+}
+}
+
+
+
+
+SEGUNDO CÓDIGO
+
+
+int main(){
+
+int vet[] = {4,9,13}; // Cria-se um vetor de dimensão 3, com seus parâmetros já definidos.
+
+int i; // Criamos a variável inteira i.
+
+for(i=0;i<3;i++){
+
+printf("%X ",vet+i); // Laço criado para impressão dos endereços de memória que armazenam os valores do vetor.
+
+}
+}

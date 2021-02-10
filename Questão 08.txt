@@ -1,0 +1,9 @@
+QUESTÃO 08 - LISTA 01
+
+ p = mat + 1; --> Operação válida, pois apenas faz com que o ponteiro 'p' armazene o endereço do vetor acrecido de uma unidade de memória;
+
+ p = mat; ' --> Considerando que ' foi um erro de digitação a operação é válida, pois apenas atribui ao ponteiro o endereço de memória do vetor posição 0
+ 
+ p =`mat; --> Operação invalida, pois o caractere ' não aplicavael nem a vetores nem a ponteiros;
+
+ x = (*mat);` --> Novamente, Considerando que ' foi um erro de digitação, podemos verificar esta como uma opração válida, pois apenas faz um desreferenciação do vetor matriz na posição 0 e atribui este valor a uma variaável do tipo inteiro. 
