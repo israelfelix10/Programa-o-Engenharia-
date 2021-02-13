@@ -1,0 +1,11 @@
+RESPOSTA DA QUESTÃO 11 - LISTA 01 PONTEIROS
+
+Os comandos inválidos são:
+
+
+c. aloha = "value";
+
+f.coisas[5] = aloha;
+
+g.pf = value;
+
